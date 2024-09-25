@@ -14,7 +14,7 @@ for filename in os.listdir(dirname):
 
 setup(
     name='wintools',
-    version='1.0',
+    version='1.1.0',
     url='https://github.com/alexsilva/wintools',
     license='MIT',
     author='alex',
